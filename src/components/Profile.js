@@ -3,7 +3,7 @@ import { Grid, Cell } from 'react-mdl';
 import Education from './education';
 import Experience from './experience';
 import Skills from './skills';
-import Febi from '../images/febiii.jpg';
+import Febi from '../images/febi.jpg';
 
 class Profile extends Component {
   render() {

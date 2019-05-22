@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Grid, Cell, List, ListItem, ListItemContent } from 'react-mdl';
-import Febi from '../images/febiii.jpg';
+import Febi from '../images/febi.jpg';
+
 
 class Contact extends Component {
   render() {
@@ -12,7 +13,7 @@ class Contact extends Component {
             <img
               src={Febi}
               alt="avatar"
-              style={{height: '250px'}}
+              style={{height: '300px'}}
                />
              <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}>Hello, I’m Febi. I really like math, counting is my hobbies. I’m interesting on Front End Developer and UI/UX Designer.</p>
 

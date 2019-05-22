@@ -20,7 +20,7 @@ class Portofolio extends Component {
             Tugas Akhir Web2 membuat website untuk pemesanan makanan dengan menggunakan laravel 
             </CardText>
             <CardActions border>
-              <Button colored href="https://github.com/febifiolanda" target="_blank">GitHub</Button>
+              <Button colored href="https://github.com/febifiolanda" target="_blank" aria-label="silahkan buka"> GitHub</Button>
             </CardActions>
             <CardMenu style={{color: '#fff'}}>
               <IconButton name="share" />
@@ -34,7 +34,7 @@ class Portofolio extends Component {
              Tugas Akhir Akhir membuat aplikasi paket wisata Gunung Sewu 
             </CardText>
             <CardActions border>
-              <Button colored href="https://github.com/febifiolanda" target="_blank">GitHub</Button>
+              <Button colored href="https://github.com/febifiolanda" target="_blank" aria-label="silahkan buka">GitHub</Button>
             </CardActions>
             <CardMenu style={{color: '#fff'}}>
               <IconButton name="share" />
@@ -48,7 +48,7 @@ class Portofolio extends Component {
               PKM SmartECo
             </CardText>
             <CardActions border>
-              <Button colored href="https://github.com/Galantyas/smarteco" target="_blank">GitHub</Button>
+              <Button colored href="https://github.com/Galantyas/smarteco" target="_blank" aria-label="silahkan buka">GitHub</Button>
             </CardActions>
             <CardMenu style={{color: '#fff'}}>
               <IconButton name="share" />
@@ -68,7 +68,7 @@ class Portofolio extends Component {
               membuat animasi berjalan 
             </CardText>
             <CardActions border>
-              <Button colored href="https://i.ibb.co/6r05wgd/dwef.png" target="_blank">View</Button>
+              <Button colored href="https://i.ibb.co/6r05wgd/dwef.png" target="_blank" aria-label="silahkan buka">View</Button>
             </CardActions>
             <CardMenu style={{color: '#fff'}}>
               <IconButton name="share" />
@@ -81,7 +81,7 @@ class Portofolio extends Component {
               membuat desain bangunan 3D 
             </CardText>
             <CardActions border>
-              <Button colored href="https://i.ibb.co/ChRpH9G/idahooo.png" target="_blank">View</Button>
+              <Button colored href="https://i.ibb.co/ChRpH9G/idahooo.png" target="_blank" aria-label="silahkan buka">View</Button>
             </CardActions>
             <CardMenu style={{color: '#fff'}}>
               <IconButton name="share" />
@@ -94,7 +94,7 @@ class Portofolio extends Component {
             lowpoly
             </CardText>
             <CardActions border>
-              <Button colored href="https://i.ibb.co/9vtYZNY/lowly-1.png" target="_blank">View</Button>
+              <Button colored href="https://i.ibb.co/9vtYZNY/lowly-1.png" target="_blank" aria-label="silahkan buka">View</Button>
             </CardActions>
             <CardMenu style={{color: '#fff'}}>
               <IconButton name="share" />
