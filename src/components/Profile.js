@@ -3,7 +3,7 @@ import { Grid, Cell } from 'react-mdl';
 import Education from './education';
 import Experience from './experience';
 import Skills from './skills';
-
+import Febi from '../images/febiii.jpg';
 
 class Profile extends Component {
   render() {
@@ -13,7 +13,7 @@ class Profile extends Component {
           <Cell col={4}>
             <div style={{textAlign: 'center'}}>
               <img
-                src="https://i.ibb.co/GHqh98p/febiii.jpg"
+                src={Febi}
                 alt="avatar"
                 style={{height: '200px'}}
                  />

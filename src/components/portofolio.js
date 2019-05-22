@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Tabs, Tab, Grid, Cell, Card, CardTitle, CardText, CardActions, Button, CardMenu, IconButton } from 'react-mdl';
-
+import Gambar1 from '../images/gambar1.png';
 
 class Portofolio extends Component {
   constructor(props) {
@@ -48,7 +48,7 @@ class Portofolio extends Component {
               PKM SmartECo
             </CardText>
             <CardActions border>
-              <Button colored href="https://github.com/febifiolanda" target="_blank">GitHub</Button>
+              <Button colored href="https://github.com/Galantyas/smarteco" target="_blank">GitHub</Button>
             </CardActions>
             <CardMenu style={{color: '#fff'}}>
               <IconButton name="share" />
